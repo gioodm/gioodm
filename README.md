@@ -7,7 +7,7 @@
 🎓 &nbsp; MSc in Systems Biology </br>
 🎓 &nbsp; BSc in Genomics </br>
 🌱 &nbsp; Excited about ML and AI for environmental sustainability and bioengineering </br> 
-💬 &nbsp; Feel free to reach out to me to discuss about research and possible collaborations! </br>
+💬 &nbsp; Feel free to reach out to discuss about research and possible collaborations! </br>
 
 
 ## 🛠 &nbsp;Tech Stack
